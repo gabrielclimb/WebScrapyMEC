@@ -1,2 +1,2 @@
 # WebScrapyMEC
-WebScrapy to get valuer from mec.ca
+WebScrapy to get values from mec.ca
